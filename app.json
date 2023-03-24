@@ -12,37 +12,37 @@
         "ASSISTANT_NAME": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "Flame_assistant"
+            "value": "Music"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "flamemusicbot"
+            "value": "@Use4R_bot"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "6435225"
+            "value": "29457207"
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "4e984ea35f854762dcde906dce426c2d"
+            "value": "0411debd45a4dce74e02cfd1035ef174"
         },
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "Flame_Project"
+            "value": "@Ronny_support_chats"
         },
         "UPDATES_CHANNEL": {
             "description": "Your Updates Channel",
             "required": false,
-            "value": "Flame_updates"
+            "value": "@Ronny_updates"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": "2046092634"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
@@ -52,7 +52,7 @@
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "6290918880:AAH5vRSb_HgfEfBpuemp4fSglCW1ZQ9Madc"
         }
 
     },
